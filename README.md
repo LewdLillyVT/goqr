@@ -30,7 +30,7 @@ Whether you're looking to create a QR code for a URL, generate a unique barcode 
 
 2. Navigate into the project folder:
    ```bash
-   cd barcode-generator
+   cd goqr
    ```
 
 3. Install dependencies:
@@ -47,7 +47,7 @@ Whether you're looking to create a QR code for a URL, generate a unique barcode 
 
 5. Run the application:
    ```bash
-   ./barcode-generator
+   ./goqr
    ```
 
 ### Running Pre-built Binary
