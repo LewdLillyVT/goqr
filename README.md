@@ -73,4 +73,4 @@ The app displays error messages directly within the app's UI, allowing the user 
 ![App Interface](​https://i.lewdlilly.tv/948fcec73.png)
 
 ### Generated QR Code:
-![Generated QR Code](​https://i.lewdlilly.tv/2b0d8dc1c.png)
+![Generated QR Code]([​https://i.lewdlilly.tv/2b0d8dc1c.png](https://cdn.hyrule.pics/e1e1f9c64.png))
